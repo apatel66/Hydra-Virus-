@@ -12,6 +12,7 @@ def window():
     root = tk.Toplevel()
     root.title("Hydra")
 
+    #Position the window
     w = 450
     h = 250
     sw = root.winfo_screenwidth()
